@@ -1,0 +1,16 @@
+# whitelist: only the model, analysis, figures and writeup are tracked
+/*
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/ctmc.py
+!/analysis.py
+!/analysis_output.txt
+!/img/
+/img/*
+!/img/an_*.png
+!/img/ctmc_*.png
+!/writeup/
+/writeup/*
+!/writeup/model.tex
+!/writeup/model.pdf
